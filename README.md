@@ -153,11 +153,31 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
+# consider ;
+
+* Overview Section: Add a brief introduction or overview at the beginning to summarize what the AirBnB clone project aims to achieve, its significance, and any unique features or challenges you encountered during development.
+
+* Detailed Usage Examples: While you have a basic example under "Examples of use," consider adding more detailed examples that cover a variety of commands and scenarios. This helps users understand the versatility of your command interpreter.
+
+*  Error Handling: Include information about how errors are handled in your command interpreter. For instance, what happens if a user enters an invalid command or incorrect parameters?
+
+* Testing Approach: Briefly describe your approach to testing. Mention if you used unit tests (as seen in the /tests directory), any test coverage metrics, or any specific testing frameworks utilized.
+
+* Future Directions: Optionally, you could include a section discussing future enhancements or features planned for the project. This gives users and potential contributors an idea of where the project might be headed.
+
+* Acknowledgments: Besides listing authors, consider acknowledging any specific libraries, tools, or mentors who significantly contributed to the project's success.
+
+* Community and Support: Provide information on where users can get support or contribute to the project (e.g., GitHub repository link, community forums, etc.).
+
+* Deployment Information: If applicable, include information or guidelines on how to deploy the AirBnB clone on different platforms or environments.
+
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+
+Nasasira Shafik Muhairwe - [Github](https://github.com/Muhairwe144J)
 
 Second part of Airbnb: Joann Vuong
 ## License
